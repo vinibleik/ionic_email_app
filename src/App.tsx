@@ -37,7 +37,7 @@ const App: React.FC = () => (
         <Route exact path="/inbox">
           <Inbox />
         </Route>
-        <Route exact path="/newemail">
+        <Route exact path="/new-email">
           <NewEmail />
         </Route>
         <Route exact path="/end">
