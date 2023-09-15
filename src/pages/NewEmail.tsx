@@ -16,6 +16,7 @@ import {
   useIonRouter,
 } from "@ionic/react";
 import { sendOutline } from "ionicons/icons";
+import React from "react";
 
 const NewEmail: React.FC = () => {
   const router = useIonRouter();
